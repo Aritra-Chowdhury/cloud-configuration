@@ -16,4 +16,4 @@ microservice:
   order-service:
     endpoints:
       endpoint:
-        uri: http://ORDER-SERVICE/ai/v1/order/
+        uri: http://ORDER-SERVICE/api/v1/order/
